@@ -22,7 +22,7 @@
 4. 不使用loop循环，创建一个长度为100的数组，并且每个元素等于它的下标？
 
 
-[据说来自阿里的题目](http://blog.csdn.net/MR_LP/article/details/61619133)
+[原出处,据说来自阿里的题目](http://blog.csdn.net/MR_LP/article/details/61619133)
 
 1. 你上一个项目都用到了那些方法优化js的性能？
 	
