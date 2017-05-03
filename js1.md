@@ -52,10 +52,13 @@
 
 14.	说一说关于 Promise 的使用（需要手写）
 
-15. if(!('a' in window)) {
-	var a = 1;
-    }
-    console.log(a);
+15. 	
+	``
+	if(!('a' in window)) {
+	   var a = 1;
+	}
+	console.log(a);
+	
     
 
 16. var a = 1,b = function a(){}; console.log(a);
