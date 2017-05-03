@@ -53,23 +53,27 @@
 14.	说一说关于 Promise 的使用（需要手写）
 
 15. 输出结果
-``
-if(!('a' in window)) {
-   var a = 1;
-}
-console.log(a);
+
+		if(!('a' in window)) {
+		   var a = 1;
+		}
+		console.log(a);
 	
 16. 
-var a = 1,b = function a(){}; console.log(a);
+
+		var a = 1,b = function a(){}; console.log(a);
 
 17. 
-function a(x) {return x*2;} var a; console.log(a);
+
+		function a(x) {return x*2;} var a; console.log(a);
 
 18. 
-function b(x, y, a) {arguments[2] = 10; console.log(a);} b(1, 2, 3);
+
+		function b(x, y, a) {arguments[2] = 10; console.log(a);} b(1, 2, 3);
 
 19. 
-function a() {console.log(this);} a.call(null);
+
+		function a() {console.log(this);} a.call(null);
 	
 	
 
